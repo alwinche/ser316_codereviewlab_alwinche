@@ -1,3 +1,11 @@
+/*
+  File:	Main.java
+  Author: kevinagary / Alexander Winchester	
+  Date:	4/4/17
+  
+  Description: Contains Main method that executes the program.
+*/
+
 package banking.gui;
 
 import javax.swing.JFrame;
